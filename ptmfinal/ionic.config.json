@@ -1,0 +1,7 @@
+{
+  "name": "ptmfinal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
